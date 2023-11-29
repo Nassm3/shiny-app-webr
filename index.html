@@ -23,7 +23,7 @@
 library(shiny)
 library(visNetwork)
 options(shiny.trace = TRUE)
-runApp('app', display.mode = 'showcase', launch.browser = FALSE
+runApp('app', display.mode = 'showcase', launch.browser = FALSE)
 `);
       outElem.replaceChildren();
       new vis.Network('out', JSON.parse(netData), {});
