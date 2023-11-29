@@ -1,37 +1,32 @@
 <html>
   <head>
-      <title>Standalone Shiny on webR demo</title>
-      <style>
-        body {
-          font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
-        }
-        #console {
-          font-size: 16px;
-          z-index: 1;
-          border-top: 2px solid black;
-          position: absolute;
-          bottom: 0;
-          left: 0;
-          right: 0;
-          height:20%;
-          overflow-y: scroll;
-          overflow-wrap: anywhere;
-        }
-      </style>
+    <title>Plotly Example</title>
+    <script
+      src="hhttps://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.9/standalone/umd/vis-network.min.js"
+      charset="utf-8"
+    ></script>
   </head>
   <body>
-    <div id="loading">
-      <h1>Please wait, webR is loading</h1>
-      <p>This can take a while...</p>
+    <div>
+      <pre><code id="out">Loading webR, please wait...</code></pre>
     </div>
-
-    <div id="console">
-      <pre style="white-space: pre-wrap;">
-        <code id="out">
-Loading webR...
-        </code>
-      </pre>
-    </div>
-  <script src="shiny.js"></script>
+    
+    <script type="module">
+      import { WebR } from 'https://webr.r-wasm.org/latest/webr.mjs';
+      const webR = new WebR({ interactive: false });
+      await webR.init();
+      const outElem = document.getElementById('out');
+      outElem.innerText = 'Loading plotly, please wait...';
+      await webR.installPackages(['jsonlite', 'shiny', 'visNetwork'], true);
+      outElem.innerText = 'Generating network, please wait...';
+      const netData = await webR.evalRString(`
+library(shiny)
+library(visNetwork)
+options(shiny.trace = TRUE)
+runApp('app', display.mode = 'showcase', launch.browser = FALSE
+`);
+      outElem.replaceChildren();
+      new vis.Network('out', JSON.parse(netData), {});
+    </script>
   </body>
 </html>
