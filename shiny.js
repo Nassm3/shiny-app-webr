@@ -128,8 +128,6 @@ import('https://webr.r-wasm.org/v0.2.2/webr.mjs').then(async ({ WebR }) => {
   webR.writeConsole(`
     .libPaths(c("/shiny", .libPaths()))
     library(shiny)
-    node = read.csv("app/node.csv",sep = " ")
-    edge = read.csv("app/edge.csv",sep = " ")
     options(shiny.trace = TRUE)
     runApp('app', display.mode = 'showcase', launch.browser = FALSE)
   `);
