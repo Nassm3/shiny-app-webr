@@ -1,30 +1,26 @@
-# Define UI for app that draws a histogram ----
-ui <- fluidPage(
+node = read.csv("node.csv",sep = " ")
+edge = read.csv("edge.csv",sep = " ")
 
-  # App title ----
-  titlePanel("Hello Shiny!"),
-
-  # Sidebar layout with input and output definitions ----
-  sidebarLayout(
-
-    # Sidebar panel for inputs ----
-    sidebarPanel(
-
-      # Input: Slider for the number of bins ----
-      sliderInput(inputId = "bins",
-                  label = "Number of bins:",
-                  min = 1,
-                  max = 50,
-                  value = 30)
-
+ui = fluidPage(
+  fluidRow(
+    column(
+      6,
+      h1("VisNetwork")
     ),
-
-    # Main panel for displaying outputs ----
-    mainPanel(
-
-      # Output: Histogram ----
-      plotOutput(outputId = "distPlot")
-
+    column(
+      6,
+      sliderInput("cutoff",
+                  label = h3("Cutoff :"),
+                  min = round(min(edge$value), 1),
+                  max = round(max(edge$value), 1),
+                  value = 0.6
+      )
     )
-  )
+  ),
+  fluidRow(
+    column(
+      12,
+      visNetworkOutput("net", width = "100%", height = "75vh")
+    )
+  ),
 )
