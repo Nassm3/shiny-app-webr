@@ -22,8 +22,78 @@
       const netData = await webR.evalRString(`
 library(shiny)
 library(visNetwork)
-options(shiny.trace = TRUE)
-runApp('app')
+
+node = read.csv("app/node.csv",sep = " ")
+edge = read.csv("app/edge.csv",sep = " ")
+groupN = 2
+
+shinyApp(
+  server = function(input, output) {
+    if (groupN == 2) {
+      output$net <- renderVisNetwork({
+        visNetwork(node, edge) %>%
+          visGroups(groupname = "Transcriptome", color = "lightcoral", shape = "square") %>%
+          visGroups(groupname = "Metabolome", color = "steelblue", shape = "circle") %>%
+          visLegend(main = "Legend", useGroups = TRUE, width = 0.1) %>%
+          visPhysics(
+            repulsion = list(nodeDistance = 50),
+            timestep = 0.3,
+            adaptiveTimestep = TRUE,
+          )
+      })
+    } else if (groupN == 3) {
+      output$net <- renderVisNetwork({
+        visNetwork(node, edge) %>%
+          visGroups(groupname = "Transcriptome", color = "lightcoral", shape = "square") %>%
+          visGroups(groupname = "Metabolome", color = "steelblue", shape = "circle") %>%
+          visGroups(groupname = "Phenotype", color = "orange", shape = "hexagon") %>%
+          visLegend(main = "Legend", useGroups = TRUE, width = 0.1) %>%
+          visPhysics(
+            repulsion = list(nodeDistance = 50),
+            timestep = 0.3,
+            adaptiveTimestep = TRUE,
+          )
+      })
+    }
+    
+    network <- visNetworkProxy("net")
+    
+    observe({
+      filteredEdges <- edge %>% filter(value >= input$cutoff)
+      filteredNodes <- subset(node, id %in% filteredEdges$from | id %in% filteredEdges$to)
+      hiddenNodes <- anti_join(node, filteredNodes)
+      hiddenEdges <- anti_join(edge, filteredEdges)
+      visRemoveNodes(network, id = hiddenNodes$id)
+      visRemoveEdges(network, id = hiddenEdges$id)
+      visUpdateNodes(network, filteredNodes)
+      visUpdateEdges(network, filteredEdges)
+    })
+  },
+  ui = fluidPage(
+    fluidRow(
+      column(
+        6,
+        h1("VisNetwork")
+      ),
+      column(
+        6,
+        sliderInput("cutoff",
+                    label = h3("Cutoff :"),
+                    min = round(min(edge$value), 1),
+                    max = round(max(edge$value), 1),
+                    value = 0.6
+        )
+      )
+    ),
+    fluidRow(
+      column(
+        12,
+        visNetworkOutput("net", width = "100%", height = "75vh")
+      )
+    ),
+  )
+)
+
 `);
       outElem.replaceChildren();
       new vis.Network('out', JSON.parse(netData), {});
