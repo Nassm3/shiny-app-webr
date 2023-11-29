@@ -19,6 +19,7 @@
       outElem.innerText = 'Loading visNetwork, please wait...';
       await webR.installPackages(['jsonlite', 'shiny', 'visNetwork'], true);
       outElem.innerText = 'Generating network, please wait...';
+      await webR.evalRVoid(`webr::mount("/app", "${window.location.href}/app")`);
       const netData = await webR.evalRString(`
 library(shiny)
 library(visNetwork)
