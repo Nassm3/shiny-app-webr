@@ -1,6 +1,3 @@
-node = read.csv("node.csv",sep = " ")
-edge = read.csv("edge.csv",sep = " ")
-
 server = function(input, output) {
   output$net <- renderVisNetwork({
     visNetwork(node, edge) %>%
