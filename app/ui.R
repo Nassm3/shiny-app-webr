@@ -1,6 +1,3 @@
-node = read.csv("node.csv",sep = " ")
-edge = read.csv("edge.csv",sep = " ")
-
 ui = fluidPage(
   fluidRow(
     column(
