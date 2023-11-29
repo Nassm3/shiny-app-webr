@@ -16,7 +16,7 @@
       const webR = new WebR({ interactive: false });
       await webR.init();
       const outElem = document.getElementById('out');
-      outElem.innerText = 'Loading plotly, please wait...';
+      outElem.innerText = 'Loading visNetwork, please wait...';
       await webR.installPackages(['jsonlite', 'shiny', 'visNetwork'], true);
       outElem.innerText = 'Generating network, please wait...';
       const netData = await webR.evalRString(`
