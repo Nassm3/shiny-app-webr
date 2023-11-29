@@ -120,6 +120,8 @@ import('https://webr.r-wasm.org/v0.2.2/webr.mjs').then(async ({ WebR }) => {
   await webR.FS.mkdir('/home/web_user/app/www');
   await fetchToWebR('app/ui.R', '/home/web_user/app/ui.R');
   await fetchToWebR('app/server.R', '/home/web_user/app/server.R');
+  await fetchToWebR('app/edge.csv', '/home/web_user/app/edge.csv');
+  await fetchToWebR('app/node.csv', '/home/web_user/app/node.csv');
 
   // Install and run shiny
   await webR.evalRVoid(`webr::mount("/shiny", "${window.location.href}/image/library.data")`);
