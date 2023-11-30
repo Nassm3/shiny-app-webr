@@ -127,11 +127,10 @@ import('https://webr.r-wasm.org/v0.2.2/webr.mjs').then(async ({ WebR }) => {
   //await webR.evalRVoid(`webr::mount("/lib", "${window.location.href}/image/libraries.data")`);
   await webR.installPackages(['shiny', 'visNetwork'])
   webR.writeConsole(`
-    #.libPaths(c("/lib", .libPaths()))
     library(shiny)
     library(visNetwork)
     options(shiny.trace = TRUE)
-    runApp('app', display.mode = 'showcase',launch.browser = FALSE)
+    runApp('app', display.mode = 'showcase')
   `);
 
   // Setup listener for service worker messages
