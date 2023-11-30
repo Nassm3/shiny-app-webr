@@ -127,7 +127,8 @@ import('https://webr.r-wasm.org/v0.2.2/webr.mjs').then(async ({ WebR }) => {
   await webR.evalRVoid(`webr::mount("/shiny", "${window.location.href}/image/libraries.data")`);
   webR.writeConsole(`
     #.libPaths(c("/shiny", .libPaths()))
-    install.packages(c("shiny", "visNetwork"),
+    print(installing packages ...")
+    install.packages(c("shiny", "visNetwork")
     library(shiny)
     library(visNetwork)
     options(shiny.trace = TRUE)
