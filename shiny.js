@@ -24,7 +24,7 @@ navigator.serviceWorker.register('./httpuv-serviceworker.js').then(async (regist
   console.log("serviceworker proxy is ready");
 });
 
-import('https://webr.r-wasm.org/latest/webr.mjs').then(async ({ WebR }) => {
+import('https://webr.r-wasm.org/v0.2.2/webr.mjs').then(async ({ WebR }) => {
   let webSocketHandleCounter = 0;
   let webSocketRefs = {};
 
