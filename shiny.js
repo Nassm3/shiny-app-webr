@@ -124,9 +124,10 @@ import('https://webr.r-wasm.org/v0.2.2/webr.mjs').then(async ({ WebR }) => {
   await fetchToWebR('app/node.csv', '/home/web_user/app/node.csv');
 
   // Install and run shiny
-  await webR.evalRVoid(`webr::mount("/lib", "${window.location.href}/image/libraries.data")`);
+  //await webR.evalRVoid(`webr::mount("/lib", "${window.location.href}/image/libraries.data")`);
+  await webR.installPackages(['shiny', 'visNetwork'])
   webR.writeConsole(`
-    .libPaths(c("/lib", .libPaths()))
+    #.libPaths(c("/lib", .libPaths()))
     library(shiny)
     library(visNetwork)
     options(shiny.trace = TRUE)
