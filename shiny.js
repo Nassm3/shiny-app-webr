@@ -131,7 +131,7 @@ import('https://webr.r-wasm.org/v0.2.2/webr.mjs').then(async ({ WebR }) => {
     library(visNetwork)
     library(dplyr)
     options(shiny.trace = TRUE)
-    runApp('app',launch.browser = TRUE)
+    runApp('app',launch.browser = FALSE)
   `);
 
   // Setup listener for service worker messages
