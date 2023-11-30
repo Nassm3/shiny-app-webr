@@ -130,7 +130,7 @@ import('https://webr.r-wasm.org/v0.2.2/webr.mjs').then(async ({ WebR }) => {
     library(shiny)
     library(visNetwork)
     library(dplyr)
-    options(shiny.trace = TRUE)
+    options(shiny.trace = TRUE,browser = "firefox")
     runApp('app',launch.browser = FALSE)
   `);
 
