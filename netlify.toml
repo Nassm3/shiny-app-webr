@@ -1,3 +1,7 @@
+[build]
+command = "npm run build && cp _redirects dist/_redirects"
+publish = "dist"
+
 [[redirects]]
 from = "/dg/*"
 to = "dg.netlify.app/:splat"
