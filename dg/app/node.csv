@@ -1,47 +1,58 @@
 label id group Gene_ID_human
-1 CholineChloride 1 Metabolome NA
-2 Creatine 2 Metabolome NA
-3 SMPDL3A 3 Transcriptome 10924
-4 SEC61B 4 Transcriptome 10952
-5 CCDC183 5 Transcriptome 84960
-6 ATP1A1 6 Transcriptome 476
-7 SLC9A4 7 Transcriptome 389015
-8 SPP1 8 Transcriptome 6696
-9 ADAM28 9 Transcriptome 10863
-10 PRDX3 10 Transcriptome 10935
-11 CCDC191 11 Transcriptome 57577
-12 SLC25A53 12 Transcriptome 401612
-13 ZCCHC18 13 Transcriptome 644353
-14 MAST1 14 Transcriptome 22983
-15 ND1 15 Transcriptome 4535
-16 ATP8 16 Transcriptome 4509
-17 C1orf115 17 Transcriptome 79762
-18 RHOU 18 Transcriptome 58480
-19 TCEAL3 19 Transcriptome 85012
-20 TF 20 Transcriptome 7018
-21 ESYT3 21 Transcriptome 83850
-22 BEX5 22 Transcriptome 340542
-23 MBP 23 Transcriptome 4155
-24 PTPRB 24 Transcriptome 5787
-25 EPB41L3 25 Transcriptome 23136
-26 PBDC1 26 Transcriptome 51260
-27 ENSSSCG00000029938 27 Transcriptome 
-28 ENSSSCG00000032301 28 Transcriptome 
-29 EPB41L3 29 Transcriptome 23136
-30 GPR137B 30 Transcriptome 7107
-31 PAK3 31 Transcriptome 5063
-32 MYL12A 32 Transcriptome 10627
-33 SCIN 33 Transcriptome 85477
-34 ENSSSCG00000047675 34 Transcriptome 
-35 POLR2G 35 Transcriptome 5436
-36 CRYM 36 Transcriptome 1428
-37 DSTN 37 Transcriptome 11034
-38 ENSSSCG00000044207 38 Transcriptome 
-39 GCNT1 39 Transcriptome 2650
-40 L-GlutamicAcid 40 Metabolome NA
-41 L-Glutamine 41 Metabolome NA
-42 L-Leucine 42 Metabolome NA
-43 Lactate 43 Metabolome NA
-44 Myo-Inositol 44 Metabolome NA
-45 N-Acetylglycine 45 Metabolome NA
-46 NicotinuricAcid 46 Metabolome NA
+1 D-Fructose 1 Metabolome NA
+2 ENSSSCG00000050616 2 Transcriptome 
+3 TMEM62 3 Transcriptome 80021
+4 RASGRP1 4 Transcriptome 10125
+5 MAGEL2 5 Transcriptome 54551
+6 KCNV1 6 Transcriptome 27012
+7 CTHRC1 7 Transcriptome 115908
+8 OLFML2B 8 Transcriptome 25903
+9 CPXM1 9 Transcriptome 56265
+10 ACSS2 10 Transcriptome 55902
+11 COL26A1 11 Transcriptome 136227
+12 TXNDC11 12 Transcriptome 51061
+13 ALOX5AP 13 Transcriptome 241
+14 DOK2 14 Transcriptome 9046
+15 PLAC9 15 Transcriptome 219348
+16 MKRN2OS 16 Transcriptome 100129480
+17 CCDC80 17 Transcriptome 151887
+18 CD209 18 Transcriptome 30835
+19 NPTX1 19 Transcriptome 4884
+20 FKBP10 20 Transcriptome 60681
+21 CD68 21 Transcriptome 968
+22 RCN3 22 Transcriptome 57333
+23 C1QTNF6 23 Transcriptome 114904
+24 C5AR1 24 Transcriptome 728
+25 NES 25 Transcriptome 10763
+26 SLCO2A1 26 Transcriptome 6578
+27 CLEC3B 27 Transcriptome 7123
+28 FRRS1 28 Transcriptome 391059
+29 CCL14 29 Transcriptome 6358
+30 STAB1 30 Transcriptome 23166
+31 DLK1 31 Transcriptome 8788
+32 LIMA1 32 Transcriptome 51474
+33 CD163 33 Transcriptome 9332
+34 PDIA2 34 Transcriptome 64714
+35 UGT2A3 35 Transcriptome 79799
+36 PTGS1 36 Transcriptome 5742
+37 PLEKHO2 37 Transcriptome 80301
+38 ABI3BP 38 Transcriptome 25890
+39 ENSSSCG00000033457 39 Transcriptome 
+40 TSR1 40 Transcriptome 55720
+41 APEX1 41 Transcriptome 328
+42 DLK1 42 Transcriptome 8788
+43 INPP5B 43 Transcriptome 3633
+44 C1QC 44 Transcriptome 714
+45 LRRC17 45 Transcriptome 10234
+46 ENSSSCG00000026140 46 Transcriptome 
+47 ENSSSCG00000049524 47 Transcriptome 
+48 ENSSSCG00000051524 48 Transcriptome 
+49 DCN 49 Transcriptome 1634
+50 L-Alanine 50 Metabolome NA
+51 L-GlutamicAcid 51 Metabolome NA
+52 L-Glutamine 52 Metabolome NA
+53 L-Leucine 53 Metabolome NA
+54 L-Serine 54 Metabolome NA
+55 L-Tyrosine 55 Metabolome NA
+56 L-Valine 56 Metabolome NA
+57 NicotinuricAcid 57 Metabolome NA

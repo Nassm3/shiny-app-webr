@@ -1,0 +1,37 @@
+label id group Gene_ID_human
+1 CholineChloride 1 Metabolome NA
+2 Creatine 2 Metabolome NA
+3 D-Fructose 3 Metabolome NA
+4 D-Sorbitol 4 Metabolome NA
+5 SEC61B 5 Transcriptome 10952
+6 SLC16A1 6 Transcriptome 6566
+7 KIT 7 Transcriptome 3815
+8 ND1 8 Transcriptome 4535
+9 ND2 9 Transcriptome 4536
+10 COX1 10 Transcriptome 4512
+11 COX2 11 Transcriptome 4513
+12 ATP6 12 Transcriptome 6775074; 8923188; 4508
+13 COX3 13 Transcriptome 4514
+14 C1orf115 14 Transcriptome 79762
+15 GPNMB 15 Transcriptome 10457
+16 MTARC2 16 Transcriptome 54996
+17 CNTRL 17 Transcriptome 11064
+18 ANKRD66 18 Transcriptome 100287718
+19 EXOC2 19 Transcriptome 55770
+20 PTGR2 20 Transcriptome 145482
+21 ESD 21 Transcriptome 2098
+22 RDH16 22 Transcriptome 8608
+23 MYL12A 23 Transcriptome 10627
+24 VTA1 24 Transcriptome 51534
+25 SCIN 25 Transcriptome 85477
+26 MTFP1 26 Transcriptome 51537
+27 TMPRSS5 27 Transcriptome 80975
+28 WLS 28 Transcriptome 79971
+29 ZMIZ2 29 Transcriptome 83637
+30 GPR183 30 Transcriptome 1880
+31 GGACT 31 Transcriptome 87769
+32 ESD 32 Transcriptome 2098
+33 ENSSSCG00000041120 33 Transcriptome 
+34 L-GlutamicAcid 34 Metabolome NA
+35 N-Acetyl-L-AsparticAcid 35 Metabolome NA
+36 S-Acetamidomethylcysteine 36 Metabolome NA
