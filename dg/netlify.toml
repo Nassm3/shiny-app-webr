@@ -3,5 +3,3 @@
   [headers.values]
     Cross-Origin-Opener-Policy = "same-origin"
     Cross-Origin-Embedder-Policy = "require-corp"
-[build]
-base = "shiny-app-webr"
