@@ -1,7 +1,3 @@
-# netlify.toml
-[build]
-command = "npm run build" 
-
 [[redirects]]
 from = "/dg/*"
 to = "dg.netlify.app/:splat"
