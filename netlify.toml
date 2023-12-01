@@ -1,0 +1,49 @@
+# netlify.toml
+[build]
+command = "webpack" 
+
+[[redirects]]
+from = "/dg/*"
+to = "dg.netlify.app/:splat"
+status = 200
+force = true
+
+from = "/90.PG.LW/*"
+to = "net90pglw.netlify.app/:splat"
+status = 200
+force = true
+
+from = "/90.PG.MS/*"
+to = "net90pgms.netlify.app/:splat"
+status = 200
+force = true
+
+from = "/90.MG.LW/*"
+to = "net90mglw.netlify.app/:splat"
+status = 200
+force = true
+
+from = "/90.MG.MS/*"
+to = "net90mgms.netlify.app/:splat"
+status = 200
+force = true
+
+from = "/110.PG.LW/*"
+to = "net110pglw.netlify.app/:splat"
+status = 200
+force = true
+
+from = "/110.PG.MS/*"
+to = "net110pgms.netlify.app/:splat"
+status = 200
+force = true
+
+from = "/110.MG.LW/*"
+to = "net110mglw.netlify.app/:splat"
+status = 200
+force = true
+
+from = "/110.MG.MS/*"
+to = "net110mgms.netlify.app/:splat"
+status = 200
+force = true
