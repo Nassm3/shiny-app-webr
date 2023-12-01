@@ -1,6 +1,6 @@
 # netlify.toml
 [build]
-command = "webpack" 
+command = "npm run build" 
 
 [[redirects]]
 from = "/dg/*"
