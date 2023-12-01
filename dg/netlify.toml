@@ -5,6 +5,6 @@
     Cross-Origin-Embedder-Policy = "require-corp"
 
 [build]
-base = /dg
+base = "/dg"
 // build command for dg directory 
 command = "webpack" 
