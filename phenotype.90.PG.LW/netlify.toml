@@ -1,0 +1,10 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cross-Origin-Opener-Policy = "same-origin"
+    Cross-Origin-Embedder-Policy = "require-corp"
+
+[build]
+base = "/dg"
+// build command for dg directory 
+command = "webpack" 

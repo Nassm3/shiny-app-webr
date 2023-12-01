@@ -1,0 +1,56 @@
+label id group Gene_ID_human
+1 2-Oxoglutarate 1 Metabolome NA
+2 Body_Brain_Y 2 Phenotype NA
+3 Body_L_Y 3 Phenotype NA
+4 Body_W_Y 4 Phenotype NA
+5 Brain_BW_Y 5 Phenotype NA
+6 CholineChloride 6 Metabolome NA
+7 MMRN1 7 Transcriptome 22915
+8 CYP17A1 8 Transcriptome 1586
+9 TM4SF4 9 Transcriptome 7104
+10 ZDHHC13 10 Transcriptome 54503
+11 CHRNA4 11 Transcriptome 1137
+12 BORCS7ASMT 12 Transcriptome 100528007
+13 NAPSA 13 Transcriptome 9476
+14 RAD54B 14 Transcriptome 25788
+15 ENSSSCG00000035000 15 Transcriptome 
+16 LSS 16 Transcriptome 4047
+17 CYP3A22 17 Transcriptome 
+18 TM4SF5 18 Transcriptome 9032
+19 DDAH1 19 Transcriptome 23576
+20 DNAJC17 20 Transcriptome 55192
+21 BMF 21 Transcriptome 90427
+22 ENSSSCG00000041487 22 Transcriptome 
+23 PTBP1 23 Transcriptome 5725
+24 SLC27A2 24 Transcriptome 11001
+25 GALNT11 25 Transcriptome 63917
+26 CRIP3 26 Transcriptome 401262
+27 TMEM120B 27 Transcriptome 144404
+28 Glycerophosphocholine 28 Metabolome NA
+29 Head_Brain_Y 29 Phenotype NA
+30 Head_BW_Y 30 Phenotype NA
+31 Head_W_Y 31 Phenotype NA
+32 Heart_W_Y 32 Phenotype NA
+33 L_intest_Brain_Y 33 Phenotype NA
+34 L_intest_W_Y 34 Phenotype NA
+35 L_Kidney_Brain_Y 35 Phenotype NA
+36 L_Kidney_W_Y 36 Phenotype NA
+37 L-Alanine 37 Metabolome NA
+38 L-Isoleucine 38 Metabolome NA
+39 L-Leucine 39 Metabolome NA
+40 L-Proline 40 Metabolome NA
+41 Liver_Brain_Y 41 Phenotype NA
+42 Liver_W_Y 42 Phenotype NA
+43 Lung_Brain_Y 43 Phenotype NA
+44 Lung_W_Y 44 Phenotype NA
+45 Methanol 45 Metabolome NA
+46 Myo-Inositol 46 Metabolome NA
+47 Plac_W_Y 47 Phenotype NA
+48 R_Kidney_Brain_Y 48 Phenotype NA
+49 R_Kidney_W_Y 49 Phenotype NA
+50 S_intest_Brain_Y 50 Phenotype NA
+51 S_intest_W_Y 51 Phenotype NA
+52 Spleen_Brain_Y 52 Phenotype NA
+53 Spleen_W_Y 53 Phenotype NA
+54 Stomach_Brain_Y 54 Phenotype NA
+55 Stomach_W_Y 55 Phenotype NA

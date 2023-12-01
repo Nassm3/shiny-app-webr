@@ -1,0 +1,78 @@
+label id group Gene_ID_human
+1 AceticAcid 1 Metabolome NA
+2 Body_Brain_Y 2 Phenotype NA
+3 Body_L_Y 3 Phenotype NA
+4 Body_W_Y 4 Phenotype NA
+5 Brain_BW_Y 5 Phenotype NA
+6 Cord_L_Y 6 Phenotype NA
+7 Cord_W_Y 7 Phenotype NA
+8 Creatine 8 Metabolome NA
+9 RDH16 9 Transcriptome 8608
+10 LTBP2 10 Transcriptome 4053
+11 CCDC113 11 Transcriptome 29070
+12 SEC61B 12 Transcriptome 10952
+13 AARD 13 Transcriptome 441376
+14 TUFT1 14 Transcriptome 7286
+15 SIGLEC1 15 Transcriptome 6614
+16 MMRN1 16 Transcriptome 22915
+17 TET1 17 Transcriptome 80312
+18 CADPS2 18 Transcriptome 93664
+19 EDA 19 Transcriptome 1896
+20 ENSSSCG00000031855 20 Transcriptome 
+21 LIPA 21 Transcriptome 3988
+22 CEP44 22 Transcriptome 80817
+23 NAPSA 23 Transcriptome 9476
+24 CNTRL 24 Transcriptome 11064
+25 CLCA1 25 Transcriptome 1179
+26 CLCN3 26 Transcriptome 1182
+27 RDH16 27 Transcriptome 8608
+28 PTGR2 28 Transcriptome 145482
+29 MT1X 29 Transcriptome 4501
+30 PON1 30 Transcriptome 5444
+31 ITIH3 31 Transcriptome 3699
+32 RDH16 32 Transcriptome 8608
+33 TRIM21 33 Transcriptome 6737
+34 VSIG4 34 Transcriptome 11326
+35 ENSSSCG00000048678 35 Transcriptome 
+36 ENSSSCG00000048806 36 Transcriptome 
+37 ENSSSCG00000050527 37 Transcriptome 
+38 WDR19 38 Transcriptome 57728
+39 ENSSSCG00000043013 39 Transcriptome 
+40 RDH16 40 Transcriptome 8608
+41 ENSSSCG00000050836 41 Transcriptome 
+42 GGACT 42 Transcriptome 87769
+43 SLC25A26 43 Transcriptome 115286
+44 MIOX 44 Transcriptome 55586
+45 ENSSSCG00000048853 45 Transcriptome 
+46 Formate 46 Metabolome NA
+47 Head_Brain_Y 47 Phenotype NA
+48 Head_BW_Y 48 Phenotype NA
+49 Head_W_Y 49 Phenotype NA
+50 Heart_Brain_Y 50 Phenotype NA
+51 Heart_W_Y 51 Phenotype NA
+52 L_intest_Brain_Y 52 Phenotype NA
+53 L_intest_W_Y 53 Phenotype NA
+54 L_Kidney_Brain_Y 54 Phenotype NA
+55 L-Glycine 55 Metabolome NA
+56 L-Isoleucine 56 Metabolome NA
+57 L-Leucine 57 Metabolome NA
+58 L-Methionine 58 Metabolome NA
+59 L-Serine 59 Metabolome NA
+60 L-Tyrosine 60 Metabolome NA
+61 L-Valine 61 Metabolome NA
+62 Lung_Brain_Y 62 Phenotype NA
+63 Lung_W_Y 63 Phenotype NA
+64 Methanol 64 Metabolome NA
+65 Myo-Inositol 65 Metabolome NA
+66 Phosphocholine 66 Metabolome NA
+67 PyroglutamicAcid 67 Metabolome NA
+68 R_Kidney_Brain_Y 68 Phenotype NA
+69 R_Kidney_W_Y 69 Phenotype NA
+70 S_intest_Brain_Y 70 Phenotype NA
+71 S_intest_W_Y 71 Phenotype NA
+72 Spleen_Brain_Y 72 Phenotype NA
+73 Spleen_BW_Y 73 Phenotype NA
+74 Spleen_W_Y 74 Phenotype NA
+75 Stomach_Brain_Y 75 Phenotype NA
+76 Stomach_W_Y 76 Phenotype NA
+77 Taurine 77 Metabolome NA
