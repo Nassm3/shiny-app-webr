@@ -1,0 +1,70 @@
+label id group Gene_ID_human
+1 Adenosine 1 Metabolome NA
+2 CholineChloride 2 Metabolome NA
+3 Creatine 3 Metabolome NA
+4 D-Fructose 4 Metabolome NA
+5 D-GluconicAcid 5 Metabolome NA
+6 CSMD2 6 Transcriptome 114784
+7 SEPTIN1 7 Transcriptome 1731
+8 TXNDC11 8 Transcriptome 51061
+9 HYAL1 9 Transcriptome 3373
+10 EED 10 Transcriptome 8726
+11 DUSP26 11 Transcriptome 78986
+12 ENSSSCG00000016868 12 Transcriptome 
+13 ATP8 13 Transcriptome 4509
+14 AOX1 14 Transcriptome 316
+15 ENSSSCG00000022925 15 Transcriptome 
+16 SMUG1 16 Transcriptome 23583
+17 SH3BGR 17 Transcriptome 6450
+18 TMEM44 18 Transcriptome 93109
+19 SLC9A9 19 Transcriptome 285195
+20 AZGP1 20 Transcriptome 563
+21 FBXO17 21 Transcriptome 115290
+22 SDR42E1 22 Transcriptome 93517
+23 ALPL 23 Transcriptome 249
+24 PLA1A 24 Transcriptome 51365
+25 ENSSSCG00000035706 25 Transcriptome 
+26 TCAF1 26 Transcriptome 9747
+27 RDH16 27 Transcriptome 8608
+28 SURF4 28 Transcriptome 6836
+29 RDH16 29 Transcriptome 8608
+30 MTFP1 30 Transcriptome 51537
+31 TMPRSS5 31 Transcriptome 80975
+32 DSTN 32 Transcriptome 11034
+33 ENSSSCG00000045544 33 Transcriptome 
+34 OTOS 34 Transcriptome 150677
+35 ENSSSCG00000044908 35 Transcriptome 
+36 ENSSSCG00000045888 36 Transcriptome 
+37 ENSSSCG00000045735 37 Transcriptome 
+38 ENSSSCG00000041918 38 Transcriptome 
+39 ENSSSCG00000043604 39 Transcriptome 
+40 ENSSSCG00000045200 40 Transcriptome 
+41 FRUCTOSE_ARTERE_Y 41 Phenotype NA
+42 FRUCTOSE_VEINE_Y 42 Phenotype NA
+43 GLUCOSE_ARTERE_Y 43 Phenotype NA
+44 GLUCOSE_VEINE_Y 44 Phenotype NA
+45 GLYCOGENE_MUSCLE_Y 45 Phenotype NA
+46 GuanidinoaceticAcid 46 Metabolome NA
+47 L-Asparagine 47 Metabolome NA
+48 L-Aspartate 48 Metabolome NA
+49 L-Serine 49 Metabolome NA
+50 Lactate 50 Metabolome NA
+51 LACTATE_ARTERE_Y 51 Phenotype NA
+52 LACTATE_VEINE_Y 52 Phenotype NA
+53 MHC_E_MUSCLE_Y 53 Phenotype NA
+54 MHC_F_E_MUSCLE_Y 54 Phenotype NA
+55 MHC_F_EP_MUSCLE_Y 55 Phenotype NA
+56 MHC_F_MUSCLE_Y 56 Phenotype NA
+57 MHC_F_P_MUSCLE_Y 57 Phenotype NA
+58 MHC_P_E_MUSCLE_Y 58 Phenotype NA
+59 MHC_P_MUSCLE_Y 59 Phenotype NA
+60 MHC_S_MUSCLE_Y 60 Phenotype NA
+61 N-Acetylglycine 61 Metabolome NA
+62 NicotinuricAcid 62 Metabolome NA
+63 PCO2_ARTERE_Y 63 Phenotype NA
+64 PCO2_VEINE_Y 64 Phenotype NA
+65 pH_ARTERE_Y 65 Phenotype NA
+66 pH_VEINE_Y 66 Phenotype NA
+67 PO2_ARTERE_Y 67 Phenotype NA
+68 PO2_VEINE_Y 68 Phenotype NA
+69 S-Acetamidomethylcysteine 69 Metabolome NA
