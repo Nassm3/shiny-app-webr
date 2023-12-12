@@ -1,0 +1,63 @@
+label id group Gene_ID_human
+1 Betaine_Y 1 Phenotype NA
+2 Cadaverine_Y 2 Phenotype NA
+3 D-Fructose 3 Metabolome NA
+4 D.Fructose_Y 4 Phenotype NA
+5 D.GluconicAcid_Y 5 Phenotype NA
+6 GCNT3 6 Transcriptome 9245
+7 MSRB2 7 Transcriptome 22921
+8 ENSSSCG00000011212 8 Transcriptome 
+9 CCDC191 9 Transcriptome 57577
+10 ZPLD1 10 Transcriptome 131368
+11 FBXL17 11 Transcriptome 64839
+12 CDO1 12 Transcriptome 1036
+13 ANGPTL5 13 Transcriptome 253935
+14 HOXD3 14 Transcriptome 3232
+15 GHR 15 Transcriptome 2690
+16 C1orf115 16 Transcriptome 79762
+17 SLC40A1 17 Transcriptome 30061
+18 TATDN1 18 Transcriptome 83940
+19 RASSF4 19 Transcriptome 83937
+20 GHR 20 Transcriptome 2690
+21 SLC39A8 21 Transcriptome 64116
+22 RSRP1 22 Transcriptome 57035
+23 ENSSSCG00000006418 23 Transcriptome 
+24 ADCY4 24 Transcriptome 196883
+25 VPS35L 25 Transcriptome 57020
+26 PLS1 26 Transcriptome 5357
+27 MRAP2 27 Transcriptome 112609
+28 S100B 28 Transcriptome 6285
+29 RETREG1 29 Transcriptome 54463
+30 PLS1 30 Transcriptome 5357
+31 STOML2 31 Transcriptome 30968
+32 PPM1A 32 Transcriptome 5494
+33 TRAPPC3 33 Transcriptome 27095
+34 DHDH 34 Transcriptome 27294
+35 ENSSSCG00000048678 35 Transcriptome 
+36 IL1RL1 36 Transcriptome 9173
+37 GPR183 37 Transcriptome 1880
+38 ENSSSCG00000045119 38 Transcriptome 
+39 ENSSSCG00000041918 39 Transcriptome 
+40 EthylmalonicAcid_Y 40 Phenotype NA
+41 Galactitol_Y 41 Phenotype NA
+42 Glycerophosphocholine 42 Metabolome NA
+43 GuanidinoaceticAcid_Y 43 Phenotype NA
+44 L-Alanine 44 Metabolome NA
+45 L-Isoleucine 45 Metabolome NA
+46 L-Leucine 46 Metabolome NA
+47 L-Valine 47 Metabolome NA
+48 L.Cystine_Y 48 Phenotype NA
+49 L.Isoleucine_Y 49 Phenotype NA
+50 L.Leucine_Y 50 Phenotype NA
+51 L.Proline_Y 51 Phenotype NA
+52 L.Serine_Y 52 Phenotype NA
+53 L.Valine_Y 53 Phenotype NA
+54 Lactate 54 Metabolome NA
+55 Myo-Inositol 55 Metabolome NA
+56 Myo.Inositol_Y 56 Phenotype NA
+57 Phosphocholine 57 Metabolome NA
+58 PyroglutamicAcid 58 Metabolome NA
+59 PyroglutamicAcid_Y 59 Phenotype NA
+60 S.Acetamidomethylcysteine_Y 60 Phenotype NA
+61 TMAO 61 Metabolome NA
+62 TMAO_Y 62 Phenotype NA

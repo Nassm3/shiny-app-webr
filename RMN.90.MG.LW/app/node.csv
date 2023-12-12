@@ -1,0 +1,62 @@
+label id group Gene_ID_human
+1 Adenosine 1 Metabolome NA
+2 CholineChloride 2 Metabolome NA
+3 D-Fructose 3 Metabolome NA
+4 D-GluconicAcid 4 Metabolome NA
+5 D.Fructose_Y 5 Phenotype NA
+6 D.GluconicAcid_Y 6 Phenotype NA
+7 D.Glucose_Y 7 Phenotype NA
+8 D.Glucose.6.Phosphate_Y 8 Phenotype NA
+9 D.Sorbitol_Y 9 Phenotype NA
+10 SMOC2 10 Transcriptome 64094
+11 TMEM245 11 Transcriptome 23731
+12 TUFT1 12 Transcriptome 7286
+13 CIART 13 Transcriptome 148523
+14 KCNG1 14 Transcriptome 3755
+15 SLC3A1 15 Transcriptome 6519
+16 C1QTNF7 16 Transcriptome 114905
+17 LZTS1 17 Transcriptome 11178
+18 PIP5K1B 18 Transcriptome 8395
+19 TGM2 19 Transcriptome 7052
+20 CYP2J93 20 Transcriptome 
+21 SFRP1 21 Transcriptome 6422
+22 TRIM7 22 Transcriptome 81786
+23 DNAH5 23 Transcriptome 1767
+24 FAM3B 24 Transcriptome 54097
+25 GNA14 25 Transcriptome 9630
+26 ENSSSCG00000006418 26 Transcriptome 
+27 ENSSSCG00000034853 27 Transcriptome 
+28 ESD 28 Transcriptome 2098
+29 ZNF514 29 Transcriptome 84874
+30 PRPSAP2 30 Transcriptome 5636
+31 RDH16 31 Transcriptome 8608
+32 ENSSSCG00000047210 32 Transcriptome 
+33 ENSSSCG00000050427 33 Transcriptome 
+34 TMCC2 34 Transcriptome 9911
+35 APLN 35 Transcriptome 8862
+36 NRG2 36 Transcriptome 9542
+37 ENSSSCG00000043702 37 Transcriptome 
+38 CXCL12 38 Transcriptome 6387
+39 CDK2 39 Transcriptome 1017
+40 MFGE8 40 Transcriptome 4240
+41 Galactitol_Y 41 Phenotype NA
+42 GuanidinoaceticAcid 42 Metabolome NA
+43 GuanidinoaceticAcid_Y 43 Phenotype NA
+44 Hypoxanthine 44 Metabolome NA
+45 L-Alanine 45 Metabolome NA
+46 L-GlutamicAcid 46 Metabolome NA
+47 L-Leucine 47 Metabolome NA
+48 L-Phenylalanine 48 Metabolome NA
+49 L-Serine 49 Metabolome NA
+50 L-Valine 50 Metabolome NA
+51 L.Carnitine_Y 51 Phenotype NA
+52 L.Cystine_Y 52 Phenotype NA
+53 L.Glycine_Y 53 Phenotype NA
+54 L.Isoleucine_Y 54 Phenotype NA
+55 L.Proline_Y 55 Phenotype NA
+56 L.Serine_Y 56 Phenotype NA
+57 Myo.Inositol_Y 57 Phenotype NA
+58 N-Acetylglycine 58 Metabolome NA
+59 NicotinuricAcid 59 Metabolome NA
+60 ThreonicAcid_Y 60 Phenotype NA
+61 TMAO_Y 61 Phenotype NA

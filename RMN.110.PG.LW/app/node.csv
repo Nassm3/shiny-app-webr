@@ -1,0 +1,72 @@
+label id group Gene_ID_human
+1 Betaine_Y 1 Phenotype NA
+2 Cadaverine_Y 2 Phenotype NA
+3 Creatine 3 Metabolome NA
+4 D-Fructose 4 Metabolome NA
+5 D-Sorbitol 5 Metabolome NA
+6 D.Fructose_Y 6 Phenotype NA
+7 D.GluconicAcid_Y 7 Phenotype NA
+8 D.Glucose.6.Phosphate_Y 8 Phenotype NA
+9 D.Sorbitol_Y 9 Phenotype NA
+10 JARID2 10 Transcriptome 3720
+11 IYD 11 Transcriptome 389434
+12 KCNIP3 12 Transcriptome 30818
+13 EBPL 13 Transcriptome 84650
+14 LIMK2 14 Transcriptome 3985
+15 CYP17A1 15 Transcriptome 1586
+16 P3H2 16 Transcriptome 55214
+17 HTATIP2 17 Transcriptome 10553
+18 CILP2 18 Transcriptome 148113
+19 PCSK1 19 Transcriptome 5122
+20 C1QTNF3 20 Transcriptome 114899
+21 MARVELD2 21 Transcriptome 153562
+22 NPTX1 22 Transcriptome 4884
+23 ING2 23 Transcriptome 3622
+24 PNPLA3 24 Transcriptome 80339
+25 MARVELD2 25 Transcriptome 153562
+26 PDLIM5 26 Transcriptome 10611
+27 ENSSSCG00000017783 27 Transcriptome 
+28 PDE3B 28 Transcriptome 5140
+29 IYD 29 Transcriptome 389434
+30 PDIA2 30 Transcriptome 64714
+31 DSG2 31 Transcriptome 1829
+32 UGT2A3 32 Transcriptome 79799
+33 SPTAN1 33 Transcriptome 6709
+34 BCO1 34 Transcriptome 53630
+35 RSPO3 35 Transcriptome 84870
+36 ENSSSCG00000041528 36 Transcriptome 
+37 KCNIP3 37 Transcriptome 30818
+38 ENSSSCG00000046967 38 Transcriptome 
+39 TMEM165 39 Transcriptome 55858
+40 ENSSSCG00000042737 40 Transcriptome 
+41 PPA1 41 Transcriptome 5464
+42 DERL2 42 Transcriptome 51009
+43 SYNPO2 43 Transcriptome 171024
+44 ENSSSCG00000050772 44 Transcriptome 
+45 RPL10 45 Transcriptome 6134
+46 Galactitol_Y 46 Phenotype NA
+47 Glycerophosphocholine 47 Metabolome NA
+48 GuanidinoaceticAcid_Y 48 Phenotype NA
+49 L-GlutamicAcid 49 Metabolome NA
+50 L-Glycine 50 Metabolome NA
+51 L-Isoleucine 51 Metabolome NA
+52 L-Valine 52 Metabolome NA
+53 L.Arginine_Y 53 Phenotype NA
+54 L.Carnitine_Y 54 Phenotype NA
+55 L.Cystine_Y 55 Phenotype NA
+56 L.Glycine_Y 56 Phenotype NA
+57 L.Isoleucine_Y 57 Phenotype NA
+58 L.Leucine_Y 58 Phenotype NA
+59 L.Proline_Y 59 Phenotype NA
+60 L.Serine_Y 60 Phenotype NA
+61 L.Valine_Y 61 Phenotype NA
+62 Myo-Inositol 62 Metabolome NA
+63 Myo.Inositol_Y 63 Phenotype NA
+64 NicotinuricAcid 64 Metabolome NA
+65 Phosphocholine 65 Metabolome NA
+66 S-Acetamidomethylcysteine 66 Metabolome NA
+67 S.Acetamidomethylcysteine_Y 67 Phenotype NA
+68 SyringicAcid 68 Metabolome NA
+69 ThreonicAcid_Y 69 Phenotype NA
+70 TMAO 70 Metabolome NA
+71 TMAO_Y 71 Phenotype NA

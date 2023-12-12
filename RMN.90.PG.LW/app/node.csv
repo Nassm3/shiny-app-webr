@@ -1,0 +1,60 @@
+label id group Gene_ID_human
+1 Adenosine 1 Metabolome NA
+2 CholineChloride 2 Metabolome NA
+3 Creatine 3 Metabolome NA
+4 Creatinine_Y 4 Phenotype NA
+5 D-Fructose 5 Metabolome NA
+6 D-GluconicAcid 6 Metabolome NA
+7 D.Fructose_Y 7 Phenotype NA
+8 D.GluconicAcid_Y 8 Phenotype NA
+9 D.Glucose_Y 9 Phenotype NA
+10 D.Glucose.6.Phosphate_Y 10 Phenotype NA
+11 D.Mannose_Y 11 Phenotype NA
+12 D.Sorbitol_Y 12 Phenotype NA
+13 CLCA2 13 Transcriptome 9635
+14 KIAA1755 14 Transcriptome 85449
+15 ENSSSCG00000009648 15 Transcriptome 
+16 PRDX3 16 Transcriptome 10935
+17 RPS4X 17 Transcriptome 6191
+18 HSH2D 18 Transcriptome 84941
+19 ATG9A 19 Transcriptome 79065
+20 ENSSSCG00000023584 20 Transcriptome 
+21 PRTFDC1 21 Transcriptome 56952
+22 NEU3 22 Transcriptome 10825
+23 FIBIN 23 Transcriptome 387758
+24 ST3GAL2 24 Transcriptome 6483
+25 GPNMB 25 Transcriptome 10457
+26 CLCA1 26 Transcriptome 1179
+27 RAB11FIP4 27 Transcriptome 84440
+28 ENSSSCG00000029596 28 Transcriptome 
+29 RACGAP1 29 Transcriptome 29127
+30 USP54 30 Transcriptome 159195
+31 IFITM1 31 Transcriptome 8519
+32 GPNMB 32 Transcriptome 10457
+33 ENSSSCG00000041734 33 Transcriptome 
+34 ABTB2 34 Transcriptome 25841
+35 HNRNPA1 35 Transcriptome 3178
+36 CYB561 36 Transcriptome 1534
+37 SLC29A3 37 Transcriptome 55315
+38 Galactitol_Y 38 Phenotype NA
+39 Glycerophosphocholine 39 Metabolome NA
+40 GuanidinoaceticAcid 40 Metabolome NA
+41 GuanidinoaceticAcid_Y 41 Phenotype NA
+42 L-GlutamicAcid 42 Metabolome NA
+43 L-Isoleucine 43 Metabolome NA
+44 L-Leucine 44 Metabolome NA
+45 L-Serine 45 Metabolome NA
+46 L-Valine 46 Metabolome NA
+47 L.Carnitine_Y 47 Phenotype NA
+48 L.Cystine_Y 48 Phenotype NA
+49 L.Glycine_Y 49 Phenotype NA
+50 L.Isoleucine_Y 50 Phenotype NA
+51 L.Serine_Y 51 Phenotype NA
+52 Myo-Inositol 52 Metabolome NA
+53 Myo.Inositol_Y 53 Phenotype NA
+54 N-Acetylglycine 54 Metabolome NA
+55 NicotinuricAcid 55 Metabolome NA
+56 SyringicAcid 56 Metabolome NA
+57 ThreonicAcid_Y 57 Phenotype NA
+58 TMAO 58 Metabolome NA
+59 TMAO_Y 59 Phenotype NA
