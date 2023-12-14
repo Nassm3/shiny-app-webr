@@ -26,20 +26,20 @@ label id group Gene_ID_human
 25 PTGS1 25 Transcriptome 5742
 26 COL3A1 26 Transcriptome 1281
 27 ABI3BP 27 Transcriptome 25890
-28 APEX1 28 Transcriptome 328
-29 DLK1 29 Transcriptome 8788
-30 ENSSSCG00000051524 30 Transcriptome 
-31 SMOC2 31 Transcriptome 64094
-32 ENSSSCG00000050772 32 Transcriptome 
-33 DCN 33 Transcriptome 1634
-34 GuanidinoaceticAcid 34 Metabolome NA
-35 L-Alanine 35 Metabolome NA
-36 L-Glycine 36 Metabolome NA
-37 L-Isoleucine 37 Metabolome NA
-38 L-Leucine 38 Metabolome NA
-39 L-Phenylalanine 39 Metabolome NA
-40 L-Tyrosine 40 Metabolome NA
-41 L-Valine 41 Metabolome NA
+28 DLK1 28 Transcriptome 8788
+29 ENSSSCG00000051524 29 Transcriptome 
+30 SMOC2 30 Transcriptome 64094
+31 ENSSSCG00000050772 31 Transcriptome 
+32 DCN 32 Transcriptome 1634
+33 GuanidinoaceticAcid 33 Metabolome NA
+34 L-Alanine 34 Metabolome NA
+35 L-Glycine 35 Metabolome NA
+36 L-Isoleucine 36 Metabolome NA
+37 L-Leucine 37 Metabolome NA
+38 L-Phenylalanine 38 Metabolome NA
+39 L-Tyrosine 39 Metabolome NA
+40 L-Valine 40 Metabolome NA
+41 L.Alanine_Y 41 Phenotype NA
 42 L.Carnitine_Y 42 Phenotype NA
 43 L.Glycine_Y 43 Phenotype NA
 44 L.Proline_Y 44 Phenotype NA

@@ -1,44 +1,55 @@
 label id group Gene_ID_human
-1 Creatine 1 Metabolome NA
-2 RRAGD 2 Transcriptome 58528
-3 AQP9 3 Transcriptome 366
-4 SEC61B 4 Transcriptome 10952
-5 KIT 5 Transcriptome 3815
-6 IL2RG 6 Transcriptome 3561
-7 ND1 7 Transcriptome 4535
-8 ATP8 8 Transcriptome 4509
-9 ENSSSCG00000023584 9 Transcriptome 
-10 RGN 10 Transcriptome 9104
-11 AOX1 11 Transcriptome 316
-12 ENSSSCG00000025681 12 Transcriptome 
-13 TSPAN7 13 Transcriptome 7102
-14 IL2RG 14 Transcriptome 3561
-15 ABCB7 15 Transcriptome 22
-16 RGN 16 Transcriptome 9104
-17 RAB9A 17 Transcriptome 9367
-18 ENSSSCG00000023546 18 Transcriptome 
-19 ANO4 19 Transcriptome 121601
-20 GPRASP2 20 Transcriptome 114928
-21 ENSSSCG00000031608 21 Transcriptome 
-22 TMEM130 22 Transcriptome 222865
-23 DACH2 23 Transcriptome 117154
-24 FKBP14 24 Transcriptome 55033
-25 ENSSSCG00000033806 25 Transcriptome 
-26 ESD 26 Transcriptome 2098
-27 LGALS8 27 Transcriptome 3964
-28 ENSSSCG00000047293 28 Transcriptome 
-29 ENSSSCG00000041954 29 Transcriptome 
-30 ZMAT1 30 Transcriptome 84460
-31 ENSSSCG00000046192 31 Transcriptome 
-32 ZMIZ2 32 Transcriptome 83637
-33 GGACT 33 Transcriptome 87769
-34 ENSSSCG00000049683 34 Transcriptome 
-35 ENSSSCG00000045261 35 Transcriptome 
-36 L-Glycine 36 Metabolome NA
-37 L-Methionine 37 Metabolome NA
-38 L-Proline 38 Metabolome NA
-39 L-Serine 39 Metabolome NA
-40 L-Valine 40 Metabolome NA
-41 Lactate 41 Metabolome NA
-42 Phosphocholine 42 Metabolome NA
-43 S-Acetamidomethylcysteine 43 Metabolome NA
+1 Citrate 1 Metabolome NA
+2 Creatine 2 Metabolome NA
+3 D-Fructose 3 Metabolome NA
+4 AQP9 4 Transcriptome 366
+5 SERPINB8 5 Transcriptome 5271
+6 SEC61B 6 Transcriptome 10952
+7 OLFML2B 7 Transcriptome 25903
+8 SORT1 8 Transcriptome 6272
+9 KIT 9 Transcriptome 3815
+10 CTSV 10 Transcriptome 1515
+11 ENSSSCG00000011212 11 Transcriptome 
+12 TMEM43 12 Transcriptome 79188
+13 IL2RG 13 Transcriptome 3561
+14 CAMK2A 14 Transcriptome 815
+15 ND1 15 Transcriptome 4535
+16 ATP8 16 Transcriptome 4509
+17 ENSSSCG00000023584 17 Transcriptome 
+18 RGN 18 Transcriptome 9104
+19 NECTIN4 19 Transcriptome 81607
+20 ESYT3 20 Transcriptome 83850
+21 IL2RG 21 Transcriptome 3561
+22 ABCB7 22 Transcriptome 22
+23 CYP2J93 23 Transcriptome 
+24 RGN 24 Transcriptome 9104
+25 RAB9A 25 Transcriptome 9367
+26 ENSSSCG00000023546 26 Transcriptome 
+27 GPRASP2 27 Transcriptome 114928
+28 TMEM130 28 Transcriptome 222865
+29 DACH2 29 Transcriptome 117154
+30 RETREG1 30 Transcriptome 54463
+31 CARMIL1 31 Transcriptome 55604
+32 BCAM 32 Transcriptome 4059
+33 CRYBG2 33 Transcriptome 55057
+34 HNF1B 34 Transcriptome 6928
+35 ENSSSCG00000047293 35 Transcriptome 
+36 RNF223 36 Transcriptome 401934
+37 ENSSSCG00000046192 37 Transcriptome 
+38 ZMIZ2 38 Transcriptome 83637
+39 ENSSSCG00000049683 39 Transcriptome 
+40 MYO5B 40 Transcriptome 4645
+41 Glycerophosphocholine 41 Metabolome NA
+42 Hypoxanthine 42 Metabolome NA
+43 L-Glycine 43 Metabolome NA
+44 L-Isoleucine 44 Metabolome NA
+45 L-Leucine 45 Metabolome NA
+46 L-Methionine 46 Metabolome NA
+47 L-Serine 47 Metabolome NA
+48 L-Tyrosine 48 Metabolome NA
+49 L-Valine 49 Metabolome NA
+50 Lactate 50 Metabolome NA
+51 N-Acetyl-L-AsparticAcid 51 Metabolome NA
+52 NicotinuricAcid 52 Metabolome NA
+53 Phosphocholine 53 Metabolome NA
+54 S-Acetamidomethylcysteine 54 Metabolome NA
