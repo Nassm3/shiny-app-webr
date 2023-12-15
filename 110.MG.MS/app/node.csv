@@ -1,5 +1,5 @@
 label id group Gene_ID_human
-1 CholineChloride 1 Metabolome NA
+1 Betaine 1 Metabolome NA
 2 Creatine 2 Metabolome NA
 3 SEC61B 3 Transcriptome 10952
 4 KIT 4 Transcriptome 3815
@@ -11,34 +11,32 @@ label id group Gene_ID_human
 10 TMEM41A 10 Transcriptome 90407
 11 AOX1 11 Transcriptome 316
 12 ENSSSCG00000032894 12 Transcriptome 
-13 TIMP4 13 Transcriptome 7079
-14 ENSSSCG00000051274 14 Transcriptome 
-15 CNTRL 15 Transcriptome 11064
-16 PLD1 16 Transcriptome 5337
-17 EXOC2 17 Transcriptome 55770
-18 HEBP1 18 Transcriptome 50865
-19 FKBP14 19 Transcriptome 55033
-20 ENSSSCG00000034356 20 Transcriptome 
-21 MIOX 21 Transcriptome 55586
-22 ULK4 22 Transcriptome 54986
-23 DIO2 23 Transcriptome 1734
-24 SCO2 24 Transcriptome 9997
-25 ENSSSCG00000051274 25 Transcriptome 
-26 ENSSSCG00000048806 26 Transcriptome 
-27 TMPRSS5 27 Transcriptome 80975
-28 ENSSSCG00000050836 28 Transcriptome 
-29 LGALS3 29 Transcriptome 3958
-30 ZMIZ2 30 Transcriptome 83637
-31 GPR183 31 Transcriptome 1880
-32 SLC25A26 32 Transcriptome 115286
-33 MIOX 33 Transcriptome 55586
-34 MIOX 34 Transcriptome 55586
-35 ENSSSCG00000042361 35 Transcriptome 
-36 ENSSSCG00000050550 36 Transcriptome 
-37 L-Aspartate 37 Metabolome NA
-38 L-GlutamicAcid 38 Metabolome NA
-39 L-Isoleucine 39 Metabolome NA
-40 L-Leucine 40 Metabolome NA
-41 L-Methionine 41 Metabolome NA
-42 N-Acetyl-L-AsparticAcid 42 Metabolome NA
-43 Phosphocholine 43 Metabolome NA
+13 CNTRL 13 Transcriptome 11064
+14 PLD1 14 Transcriptome 5337
+15 EXOC2 15 Transcriptome 55770
+16 HEBP1 16 Transcriptome 50865
+17 FKBP14 17 Transcriptome 55033
+18 ENSSSCG00000034356 18 Transcriptome 
+19 MIOX 19 Transcriptome 55586
+20 ULK4 20 Transcriptome 54986
+21 DIO2 21 Transcriptome 1734
+22 SCO2 22 Transcriptome 9997
+23 MTFP1 23 Transcriptome 51537
+24 ENSSSCG00000048806 24 Transcriptome 
+25 TMPRSS5 25 Transcriptome 80975
+26 ENSSSCG00000050836 26 Transcriptome 
+27 ZMIZ2 27 Transcriptome 83637
+28 GPR183 28 Transcriptome 1880
+29 SLC25A26 29 Transcriptome 115286
+30 MIOX 30 Transcriptome 55586
+31 MIOX 31 Transcriptome 55586
+32 ENSSSCG00000042361 32 Transcriptome 
+33 ENSSSCG00000050550 33 Transcriptome 
+34 L-Isoleucine 34 Metabolome NA
+35 L-Leucine 35 Metabolome NA
+36 L-Methionine 36 Metabolome NA
+37 L-Valine 37 Metabolome NA
+38 Myo-Inositol 38 Metabolome NA
+39 N-Acetyl-L-AsparticAcid 39 Metabolome NA
+40 Phosphocholine 40 Metabolome NA
+41 PyroglutamicAcid 41 Metabolome NA

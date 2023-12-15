@@ -4,35 +4,34 @@ label id group Gene_ID_human
 3 CYP4A24 3 Transcriptome 
 4 LRIG1 4 Transcriptome 26018
 5 APOD 5 Transcriptome 347
-6 ZCCHC18 6 Transcriptome 644353
-7 WDR83 7 Transcriptome 84292
-8 ATP8 8 Transcriptome 4509
-9 TIPARP 9 Transcriptome 25976
-10 TCEAL3 10 Transcriptome 85012
-11 APOD 11 Transcriptome 347
-12 BEX5 12 Transcriptome 340542
-13 TUBB2B 13 Transcriptome 347733
-14 PABIR2 14 Transcriptome 159090
-15 NUDT13 15 Transcriptome 25961
-16 PBDC1 16 Transcriptome 51260
-17 ENSSSCG00000032301 17 Transcriptome 
-18 RNF144A 18 Transcriptome 9781
-19 FAM3B 19 Transcriptome 54097
-20 MRPS11 20 Transcriptome 64963
-21 MYL12A 21 Transcriptome 10627
-22 NDUFB5 22 Transcriptome 4711
-23 POLR2G 23 Transcriptome 5436
-24 ENSSSCG00000042268 24 Transcriptome 
-25 ENSSSCG00000048558 25 Transcriptome 
-26 ENSSSCG00000044207 26 Transcriptome 
-27 ENSSSCG00000043202 27 Transcriptome 
+6 UPRT 6 Transcriptome 139596
+7 ZCCHC18 7 Transcriptome 644353
+8 WDR83 8 Transcriptome 84292
+9 ATP8 9 Transcriptome 4509
+10 TIPARP 10 Transcriptome 25976
+11 TCEAL3 11 Transcriptome 85012
+12 APOD 12 Transcriptome 347
+13 BEX5 13 Transcriptome 340542
+14 TUBB2B 14 Transcriptome 347733
+15 PABIR2 15 Transcriptome 159090
+16 NUDT13 16 Transcriptome 25961
+17 PBDC1 17 Transcriptome 51260
+18 ENSSSCG00000032301 18 Transcriptome 
+19 RNF144A 19 Transcriptome 9781
+20 FAM3B 20 Transcriptome 54097
+21 MRPS11 21 Transcriptome 64963
+22 MYL12A 22 Transcriptome 10627
+23 NDUFB5 23 Transcriptome 4711
+24 POLR2G 24 Transcriptome 5436
+25 ENSSSCG00000042268 25 Transcriptome 
+26 ENSSSCG00000048558 26 Transcriptome 
+27 ENSSSCG00000044207 27 Transcriptome 
 28 ENSSSCG00000042554 28 Transcriptome 
 29 ENSSSCG00000049797 29 Transcriptome 
 30 ENSSSCG00000041163 30 Transcriptome 
-31 Glycerophosphocholine 31 Metabolome NA
-32 L-Carnitine 32 Metabolome NA
-33 L-GlutamicAcid 33 Metabolome NA
-34 L-Glycine 34 Metabolome NA
-35 N-Acetyl-L-AsparticAcid 35 Metabolome NA
+31 L-Carnitine 31 Metabolome NA
+32 L-GlutamicAcid 32 Metabolome NA
+33 L-Glycine 33 Metabolome NA
+34 N-Acetyl-L-AsparticAcid 34 Metabolome NA
+35 N-Acetylglycine 35 Metabolome NA
 36 Phosphocholine 36 Metabolome NA
-37 SyringicAcid 37 Metabolome NA

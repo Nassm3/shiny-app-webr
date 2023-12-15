@@ -4,41 +4,55 @@ label id group Gene_ID_human
 3 D-Fructose 3 Metabolome NA
 4 GLS2 4 Transcriptome 27165
 5 RDH16 5 Transcriptome 8608
-6 STRA6 6 Transcriptome 64220
-7 GPX2 7 Transcriptome 2877
+6 CD4 6 Transcriptome 920
+7 STRA6 7 Transcriptome 64220
 8 ANGEL1 8 Transcriptome 23357
 9 CA11 9 Transcriptome 770
 10 PADI4 10 Transcriptome 23569
 11 IL33 11 Transcriptome 90865
 12 C5 12 Transcriptome 727
-13 ANKS4B 13 Transcriptome 257629
-14 SLC10A4 14 Transcriptome 201780
-15 CD68 15 Transcriptome 968
-16 FAM124A 16 Transcriptome 220108
-17 CD68 17 Transcriptome 968
-18 NUDT13 18 Transcriptome 25961
-19 SSR2 19 Transcriptome 6746
-20 ENSSSCG00000035567 20 Transcriptome 
-21 ENSSSCG00000029596 21 Transcriptome 
-22 ENSSSCG00000032301 22 Transcriptome 
-23 SPR 23 Transcriptome 6697
-24 FAM3B 24 Transcriptome 54097
-25 ABLIM3 25 Transcriptome 22885
-26 TMEM106A 26 Transcriptome 113277
-27 MYL12A 27 Transcriptome 10627
-28 MT1A 28 Transcriptome 4489
-29 ENSSSCG00000047675 29 Transcriptome 
-30 POLR2G 30 Transcriptome 5436
-31 ENSSSCG00000044207 31 Transcriptome 
-32 ENSSSCG00000047956 32 Transcriptome 
-33 RDH16 33 Transcriptome 8608
-34 ZMIZ2 34 Transcriptome 83637
-35 CCT5 35 Transcriptome 22948
-36 L-Alanine 36 Metabolome NA
-37 L-Cystine 37 Metabolome NA
-38 L-GlutamicAcid 38 Metabolome NA
-39 L-Leucine 39 Metabolome NA
-40 L-Serine 40 Metabolome NA
-41 L-Valine 41 Metabolome NA
-42 S-Acetamidomethylcysteine 42 Metabolome NA
-43 Succinate 43 Metabolome NA
+13 KYAT3 13 Transcriptome 56267
+14 SLC32A1 14 Transcriptome 140679
+15 ANKS4B 15 Transcriptome 257629
+16 SLC10A4 16 Transcriptome 201780
+17 FLT1 17 Transcriptome 2321
+18 ADARB1 18 Transcriptome 104
+19 CERS4 19 Transcriptome 79603
+20 GDF9 20 Transcriptome 2661
+21 CD68 21 Transcriptome 968
+22 HSD11B1L 22 Transcriptome 374875
+23 FAM124A 23 Transcriptome 220108
+24 CD68 24 Transcriptome 968
+25 NUDT13 25 Transcriptome 25961
+26 SSR2 26 Transcriptome 6746
+27 DOC2B 27 Transcriptome 8447
+28 ENSSSCG00000035567 28 Transcriptome 
+29 ENSSSCG00000029596 29 Transcriptome 
+30 ENSSSCG00000032301 30 Transcriptome 
+31 ALG9 31 Transcriptome 79796
+32 SPR 32 Transcriptome 6697
+33 FAM3B 33 Transcriptome 54097
+34 ABLIM3 34 Transcriptome 22885
+35 STOX1 35 Transcriptome 219736
+36 TMEM106A 36 Transcriptome 113277
+37 MEST 37 Transcriptome 4232
+38 ANXA9 38 Transcriptome 8416
+39 MYL12A 39 Transcriptome 10627
+40 MT1A 40 Transcriptome 4489
+41 ENSSSCG00000047675 41 Transcriptome 
+42 POLR2G 42 Transcriptome 5436
+43 ENSSSCG00000049851 43 Transcriptome 
+44 ENSSSCG00000044207 44 Transcriptome 
+45 ENSSSCG00000047956 45 Transcriptome 
+46 RDH16 46 Transcriptome 8608
+47 ZMIZ2 47 Transcriptome 83637
+48 C1GALT1 48 Transcriptome 56913
+49 ATG5 49 Transcriptome 9474
+50 CCT5 50 Transcriptome 22948
+51 L-Alanine 51 Metabolome NA
+52 L-Cystine 52 Metabolome NA
+53 L-GlutamicAcid 53 Metabolome NA
+54 L-Leucine 54 Metabolome NA
+55 L-Serine 55 Metabolome NA
+56 L-Valine 56 Metabolome NA
+57 Succinate 57 Metabolome NA

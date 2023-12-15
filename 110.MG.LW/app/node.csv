@@ -2,30 +2,43 @@ label id group Gene_ID_human
 1 D-Fructose 1 Metabolome NA
 2 AWN 2 Transcriptome 
 3 CYP4A24 3 Transcriptome 
-4 LTBP1 4 Transcriptome 4052
-5 SLC10A4 5 Transcriptome 201780
-6 APOD 6 Transcriptome 347
-7 APOD 7 Transcriptome 347
-8 TUBB2B 8 Transcriptome 347733
-9 SSR2 9 Transcriptome 6746
-10 ENSSSCG00000035567 10 Transcriptome 
-11 ENSSSCG00000029596 11 Transcriptome 
-12 ENSSSCG00000029938 12 Transcriptome 
-13 ENSSSCG00000032301 13 Transcriptome 
-14 UNC5C 14 Transcriptome 8633
-15 MYL12A 15 Transcriptome 10627
-16 NDUFB5 16 Transcriptome 4711
-17 GBP2 17 Transcriptome 2634
-18 CYP4A24 18 Transcriptome 
-19 ENSSSCG00000044207 19 Transcriptome 
-20 MCAM 20 Transcriptome 4162
-21 ENSSSCG00000041344 21 Transcriptome 
-22 ADH5 22 Transcriptome 128
-23 CCT5 23 Transcriptome 22948
-24 ENSSSCG00000046916 24 Transcriptome 
-25 L-Asparagine 25 Metabolome NA
-26 L-Cystine 26 Metabolome NA
-27 L-Isoleucine 27 Metabolome NA
-28 L-Leucine 28 Metabolome NA
-29 Lactate 29 Metabolome NA
-30 NicotinuricAcid 30 Metabolome NA
+4 TXNDC11 4 Transcriptome 51061
+5 LTBP1 5 Transcriptome 4052
+6 SLC10A4 6 Transcriptome 201780
+7 VIM 7 Transcriptome 7431
+8 OSBPL10 8 Transcriptome 114884
+9 APOD 9 Transcriptome 347
+10 RCN1 10 Transcriptome 5954
+11 NRK 11 Transcriptome 203447
+12 APOD 12 Transcriptome 347
+13 TUBB2B 13 Transcriptome 347733
+14 MACROH2A2 14 Transcriptome 55506
+15 SSR2 15 Transcriptome 6746
+16 ENSSSCG00000035567 16 Transcriptome 
+17 ENSSSCG00000029596 17 Transcriptome 
+18 ENSSSCG00000029938 18 Transcriptome 
+19 ENSSSCG00000032301 19 Transcriptome 
+20 MAPRE2 20 Transcriptome 10982
+21 TTLL1 21 Transcriptome 25809
+22 HAUS8 22 Transcriptome 93323
+23 MYL12A 23 Transcriptome 10627
+24 NDUFB5 24 Transcriptome 4711
+25 GBP2 25 Transcriptome 2634
+26 SERHL2 26 Transcriptome 253190
+27 CYP4A24 27 Transcriptome 
+28 ENSSSCG00000044207 28 Transcriptome 
+29 PEX19 29 Transcriptome 5824
+30 MCAM 30 Transcriptome 4162
+31 ENSSSCG00000041344 31 Transcriptome 
+32 ADH5 32 Transcriptome 128
+33 CCT5 33 Transcriptome 22948
+34 ENSSSCG00000046916 34 Transcriptome 
+35 L-Asparagine 35 Metabolome NA
+36 L-Cystine 36 Metabolome NA
+37 L-Isoleucine 37 Metabolome NA
+38 L-Leucine 38 Metabolome NA
+39 L-Serine 39 Metabolome NA
+40 L-Tyrosine 40 Metabolome NA
+41 L-Valine 41 Metabolome NA
+42 Lactate 42 Metabolome NA
+43 NicotinuricAcid 43 Metabolome NA
