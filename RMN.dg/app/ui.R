@@ -4,8 +4,18 @@ edge = read.csv("edge.csv",sep = " ")
 ui = fluidPage(
   fluidRow(
     column(
-      6,
+      3,
       h1("VisNetwork")
+    ),
+    column(
+      3,
+      selectInput("selectednode", 
+                  "Nodes to display", 
+                  unlist(node$label), 
+                  selected = NULL, 
+                  multiple = TRUE,
+                  width = '75%',
+      )
     ),
     column(
       6,
